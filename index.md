@@ -1,20 +1,27 @@
 ---
-layout: default
-title: "Introvert’s Dating Guide 💬"
-permalink: /
+layout: default  # Uses the theme's default layout with header
+title: Home  # Page title in header/nav
+permalink: /  # Root URL
 ---
 
-# Welcome to the Introvert’s Dating Guide 💬
+# Welcome to My Sample Site
 
-Helping introverted men navigate dating with confidence and logic.
+This is the home page of a GitHub Pages site built with Jekyll and the **Cayman** theme.
 
-## Latest Tips
+## Why Cayman?
+- **Clean Design**: Light, readable layout with a professional header navigation.
+- **Responsive**: Works on mobile/desktop.
+- **Easy Customization**: Add pages, and the header auto-updates.
 
-- **Understand Yourself** – Know your strengths and limits in social interactions.  
-- **Smart Approaches** – Techniques that work without forcing extroversion.  
-- **Practical Advice** – Step-by-step actions you can implement today.  
+### Quick Features
+- Full top header with site title and links (Home | About).
+- Optional sidebar for extras (e.g., search or TOC).
+- Markdown-powered content.
 
-## About This Site
+Check out the [About page](about.md) for more details!
 
-This site focuses on logical, step-by-step dating guidance for introverted men. Whether you’re navigating online dating or real-world interactions, our tips aim to make the process easier, more structured,
+> "Simplicity is the ultimate sophistication." – Leonardo da Vinci
 
+---
+
+*Powered by [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).*

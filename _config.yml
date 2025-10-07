@@ -1,16 +1,15 @@
-title: "Introvert’s Dating Guide 💬"
-email: "you@example.com"
-description: "Tips for introverted men navigating dating"
-baseurl: "" # leave blank if using username.github.io
-url: "https://yourdomain.com"
+title: My Sample Site
+description: A simple GitHub Pages site using the Cayman theme.
+theme: jekyll-theme-cayman  # This activates the full header and layout
+plugins:
+  - jekyll-feed  # Optional: Adds RSS feed
 
-theme: jekyll-architect-theme
-menu:
-  - title: Home
-    url: /
-  - title: About
-    url: /about
-  - title: Blog
-    url: /blog
+# Navigation links for the header (theme auto-renders as top nav bar)
+header_pages:
+  - index.md
+  - about.md
 
-markdown: kramdown
+# Optional: Custom footer or other settings
+footer_links:
+  - title: GitHub
+    url: https://github.com/your-username/your-repo
