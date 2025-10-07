@@ -1,3 +1,16 @@
-theme: minima
-title: "Introverts Dating: A Complete Guide"
-description: A calm, analytical approach to dating for introverts.
+title: "Introvert’s Dating Guide 💬"
+email: "you@example.com"
+description: "Tips for introverted men navigating dating"
+baseurl: "" # leave blank if using username.github.io
+url: "https://yourdomain.com"
+
+theme: jekyll-architect-theme
+menu:
+  - title: Home
+    url: /
+  - title: About
+    url: /about
+  - title: Blog
+    url: /blog
+
+markdown: kramdown

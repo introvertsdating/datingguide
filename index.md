@@ -1,29 +1,20 @@
 ---
-layout: home
+layout: default
+title: "Introvert’s Dating Guide 💬"
+permalink: /
 ---
 
 # Welcome to the Introvert’s Dating Guide 💬
 
-This is a space for **logical thinkers, quiet types, and reflective minds** who want to understand dating without the noise.
+Helping introverted men navigate dating with confidence and logic.
 
-Whether you’re an introvert exploring social dynamics or just someone who prefers clarity over chaos — this guide is for you.
+## Latest Tips
 
----
+- **Understand Yourself** – Know your strengths and limits in social interactions.  
+- **Smart Approaches** – Techniques that work without forcing extroversion.  
+- **Practical Advice** – Step-by-step actions you can implement today.  
 
-## 🧭 Topics Coming Soon
-- Understanding attraction from a logical perspective  
-- How to start conversations naturally  
-- Texting for people who hate small talk  
-- Building confidence without “faking it”  
+## About This Site
 
----
+This site focuses on logical, step-by-step dating guidance for introverted men. Whether you’re navigating online dating or real-world interactions, our tips aim to make the process easier, more structured,
 
-## 💡 Why This Exists
-Dating advice online is often too loud or performative.  
-Here, we aim for **practical insights** and **self-awareness**, not “tricks” or “hacks.”
-
----
-
-### Stay tuned!
-New posts will appear here as the guide grows.  
-If you see this page
