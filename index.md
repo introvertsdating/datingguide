@@ -1,7 +1,7 @@
 ---
-layout: default  # Uses the theme's default layout with header
-title: Home  # Page title in header/nav
-permalink: /  # Root URL
+layout: default
+title: Home
+permalink: /
 ---
 
 # Welcome to My Sample Site
@@ -19,9 +19,3 @@ This is the home page of a GitHub Pages site built with Jekyll and the **Cayman*
 - Markdown-powered content.
 
 Check out the [About page](about.md) for more details!
-
-> "Simplicity is the ultimate sophistication." – Leonardo da Vinci
-
----
-
-*Powered by [GitHub Pages](https://pages.github.com/) and [Jekyll](https://jekyllrb.com/).*
