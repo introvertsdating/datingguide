@@ -1,6 +1,5 @@
 ---
 layout: home
-title: Introvert's Dating Guide
 ---
 
 # Welcome to the Introvert’s Dating Guide 💬
