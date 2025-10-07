@@ -1,15 +1,9 @@
-title: My Sample Site
-description: A simple GitHub Pages site using the Cayman theme.
-theme: jekyll-theme-cayman  # This activates the full header and layout
-plugins:
-  - jekyll-feed  # Optional: Adds RSS feed
+---
+layout: default
+title: Home
+permalink: /
+---
 
-# Navigation links for the header (theme auto-renders as top nav bar)
-header_pages:
-  - index.md
-  - about.md
+# Welcome to My Sample Site
 
-# Optional: Custom footer or other settings
-footer_links:
-  - title: GitHub
-    url: https://github.com/your-username/your-repo
+This is the home page of a GitHub Pages site built with Jekyll and the **Cayman** theme.
